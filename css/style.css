@@ -1,0 +1,21 @@
+/* 日本語 */
+.ja {
+  font-family: "Noto Sans JP", sans-serif;
+}
+/* 確認用 */
+.kakunin div {
+  border-color: red;
+  border: groove;
+}
+/* 高さ3.5remの固定ナビゲーションバーがあるため、コンテンツを下に移動  */
+body {
+  padding-top: 3.5rem;
+}
+.test {
+  text-align: center;
+  top: calc(70% - 0.5rem);
+}
+
+.text-shadow {
+  text-shadow: 1px 2px 3px #808080;
+}
