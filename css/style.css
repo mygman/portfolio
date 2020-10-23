@@ -13,7 +13,7 @@ body {
 }
 .test {
   text-align: center;
-  top: calc(70% - 0.5rem);
+  top: calc(50% - 0.5rem);
 }
 
 .text-shadow {
