@@ -11,11 +11,14 @@
 body {
   padding-top: 3.5rem;
 }
-.test {
+/* 検証用 */
+.test00 {
   text-align: center;
   top: calc(50% - 0.5rem);
-}
-
-.text-shadow {
+  font-size: calc(33.33333vw - 10px);
+  font-size: 10px;
   text-shadow: 1px 2px 3px #808080;
+}
+.test01 {
+  top: calc(50% - 0.5rem);
 }
