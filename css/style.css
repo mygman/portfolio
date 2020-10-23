@@ -12,15 +12,17 @@ body {
   padding-top: 3.5rem;
 }
 /* 検証用 */
-.test00 {
-  text-align: center;
+.kensho01 {
+  padding: 0;
   top: calc(50% - 0.5rem);
-  font-size: calc(33.33333vw - 10px);
-  font-size: 10px;
-  text-shadow: 1px 2px 3px #808080;
+  text-align: center;
 }
-.test01 {
-  font-size: 50%;
-  text-align: center;
-  top: calc(50% - 0.5rem);
+.kensho02 {
+  font-size: 4vw;
+}
+.kensho03 {
+  font-size: 3vw;
+}
+.kensho04 {
+  text-shadow: 1px 2px 3px #808080;
 }
